@@ -1,9 +1,9 @@
 fbfs
 ====
 
-FreeBSD FBFS scheduler
+FreeBSD BFS scheduler
 
-Based on "gsoc 2011 – porting BFS to FreeBSD": http://rudot.blog.com/latest-patch-available/
+Based on "gsoc 2011 - porting BFS to FreeBSD": http://rudot.blog.com/latest-patch-available/
 
 Please note:
 
